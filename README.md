@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # DMOR-SACD
-Code for Adynamic multiobjective recommendation method based onsoft actor-critic with discrete actions
+Code for dynamic multiobjective recommendation method based onsoft actor-critic with discrete actions
 =======
 # DMoR-SACD
 
@@ -133,4 +132,3 @@ Results (model weights, test metrics, config) are saved under `runs/`.
 * On CPU, `--episodes 20000` on ML-100K takes a few hours; use fewer
   episodes or `run_all.py --smoke` for quick experiments. The paper trained
   ~150k episodes.
->>>>>>> aae8422 (Initial)
